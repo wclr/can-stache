@@ -1,0 +1,23 @@
+{
+  "name": "can-stache",
+  "version": "1.0.0",
+  "description": "Using stache templates in canjs 2.x by default.",
+  "main": "can.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/whitecolor/can-stache.git"
+  },
+  "keywords": [
+    "canjs",
+    "stache"
+  ],
+  "author": "whitecolor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitecolor/can-stache/issues"
+  },
+  "homepage": "https://github.com/whitecolor/can-stache#readme"
+}
